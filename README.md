@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <br>
   <a href=""><img src="https://user-images.githubusercontent.com/4879766/67226792-c62f1680-f470-11e9-9609-7cd1f2410dd2.png" alt="Blue Diary" width="200"></a>
@@ -234,3 +235,9 @@ Leave [Issues](https://github.com/giantsol/Blue-Diary/issues), [Pull requests](h
 ## License
 
 MIT
+=======
+# sailmi-mifere-app
+芈非，个人信息助理，无论走到哪里，哪怕你失去一切，芈非将永远陪伴着你，不离不弃！
+    
+    
+>>>>>>> 47b67e4eb68fbb968b177dde3abc4c3921cbbc00
